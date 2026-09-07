@@ -1,0 +1,44 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+Organiser.log
+
+# Backups
+*.zip
+backup_*.zip
+
+# Reports
+Summary_Report.txt
+*.txt
+
+# Test outputs
+test_output/
+temp_test/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Personal files
+*.key
+*.pem
+*.crt
+.env
