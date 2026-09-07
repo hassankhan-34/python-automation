@@ -1,0 +1,100 @@
+2026-09-07 13:54:32,680 - INFO - Script Started
+2026-09-07 13:55:25,883 - INFO - Created Folder: Images
+2026-09-07 13:55:25,884 - INFO - Created Folder: PDFs
+2026-09-07 13:55:25,885 - INFO - Created Folder: Documents
+2026-09-07 13:55:25,885 - INFO - Created Folder: Data
+2026-09-07 13:55:25,886 - INFO - Created Folder: Archive
+2026-09-07 13:55:25,886 - INFO - Created Folder: Videos
+2026-09-07 13:55:25,888 - INFO - Created Folder: Other
+2026-09-07 13:55:25,890 - INFO - Found 28 files
+2026-09-07 13:55:25,891 - INFO - Moved: 12081342_011332_01-08-2026_31-08-2026.pdf -> PDFs/
+2026-09-07 13:55:25,891 - INFO - Moved: AnyDesk (1).exe -> Other/
+2026-09-07 13:55:25,892 - INFO - Moved: Burpsuite-Professional-main.zip -> Archive/
+2026-09-07 13:55:25,893 - INFO - Moved: cacert.der -> Other/
+2026-09-07 13:55:25,893 - INFO - Moved: CiscoPacketTracer_901_win_64bit.exe -> Other/
+2026-09-07 13:55:25,894 - INFO - Moved: CursorUserSetup-x64-3.18.25.exe -> Other/
+2026-09-07 13:55:25,895 - INFO - Moved: debug.log -> Other/
+2026-09-07 13:55:25,895 - INFO - Moved: desktop.ini -> Other/
+2026-09-07 13:55:25,896 - INFO - Moved: Docker Desktop Installer.exe -> Other/
+2026-09-07 13:55:25,897 - INFO - Moved: ECC-CEH-Certificate.pdf -> PDFs/
+2026-09-07 13:55:25,897 - INFO - Moved: eDEX-UI-Windows-x64.exe -> Other/
+2026-09-07 13:55:25,898 - INFO - Moved: FileZilla_3.70.6_win64-setup.exe -> Other/
+2026-09-07 13:55:25,899 - INFO - Moved: fortinet-FGT-v6.4 -> Other/
+2026-09-07 13:55:25,902 - INFO - Moved: fortinet-FGT-v7.0.9-build0444 -> Other/
+2026-09-07 13:55:25,903 - INFO - Moved: Git-2.54.0-64-bit.exe -> Other/
+2026-09-07 13:55:25,904 - INFO - Moved: grep_1611752025618.txt -> Documents/
+2026-09-07 13:55:25,905 - INFO - Moved: MediaCreationTool_22H2.exe -> Other/
+2026-09-07 13:55:25,906 - INFO - Moved: nccia1.pdf -> PDFs/
+2026-09-07 13:55:25,907 - INFO - Moved: node-v24.20.0-x64.msi -> Other/
+2026-09-07 13:55:25,908 - INFO - Moved: Penetration_Testing_Report.docx -> Documents/
+2026-09-07 13:55:25,909 - INFO - Moved: python-manager-26.2.msix -> Other/
+2026-09-07 13:55:25,910 - INFO - Moved: python_soc_projects_roadmap.docx -> Documents/
+2026-09-07 13:55:25,911 - INFO - Moved: SecureGitOps_Implementation_Plan.pdf -> PDFs/
+2026-09-07 13:55:25,912 - INFO - Moved: SecureGitOps_Proposal.pdf -> PDFs/
+2026-09-07 13:55:25,913 - INFO - Moved: SOC_Analyst_Portfolio_Projects.docx -> Documents/
+2026-09-07 13:55:25,914 - INFO - Moved: soc_security_events.csv -> Data/
+2026-09-07 13:55:25,915 - INFO - Moved: testServer-key.pem -> Other/
+2026-09-07 13:55:25,916 - INFO - Moved: xampp-windows-x64-8.2.12-0-VS16-installer.exe -> Other/
+2026-09-07 13:55:25,916 - INFO - Creating Backup: backup_260907.zip
+2026-09-07 13:55:32,477 - INFO - Backup Created: backup_260907.zip (1644.48 MB)
+2026-09-07 13:55:32,478 - INFO - Report Generated
+2026-09-07 13:55:32,479 - INFO - Organization complete: 28 file processed
+2026-09-07 13:56:23,336 - INFO - Script Started
+2026-09-07 13:56:24,336 - INFO - Found 1 files
+2026-09-07 13:56:24,337 - INFO - Moved: Summary_Report.txt -> Documents/
+2026-09-07 13:56:24,338 - INFO - Creating Backup: backup_260907.zip
+2026-09-07 13:56:25,683 - INFO - Backup Created: backup_260907.zip (1644.48 MB)
+2026-09-07 13:56:25,685 - INFO - Report Generated
+2026-09-07 13:56:25,685 - INFO - Organization complete: 1 file processed
+2026-09-07 15:12:01,003 - INFO - Script Started
+2026-09-07 15:12:03,740 - INFO - Created Folder: Images
+2026-09-07 15:12:03,741 - INFO - Created Folder: PDFs
+2026-09-07 15:12:03,742 - INFO - Created Folder: Documents
+2026-09-07 15:12:03,743 - INFO - Created Folder: Data
+2026-09-07 15:12:03,744 - INFO - Created Folder: Archive
+2026-09-07 15:12:03,744 - INFO - Created Folder: Videos
+2026-09-07 15:12:03,745 - INFO - Created Folder: Other
+2026-09-07 15:12:03,746 - INFO - Found 42 files
+2026-09-07 15:12:03,747 - INFO - Moved: 1.docx -> Documents/
+2026-09-07 15:12:03,748 - INFO - Moved: Al_Fatah_Web_Application_Penetration_Testing_Report (2).docx -> Documents/
+2026-09-07 15:12:03,748 - INFO - Moved: Burp-Suite-Pro..lnk -> Other/
+2026-09-07 15:12:03,749 - INFO - Moved: ceh.txt -> Documents/
+2026-09-07 15:12:03,750 - INFO - Moved: Cisco Packet Tracer.lnk -> Other/
+2026-09-07 15:12:03,750 - INFO - Moved: Cursor.lnk -> Other/
+2026-09-07 15:12:03,751 - INFO - Moved: Cyber Security Products.docx -> Documents/
+2026-09-07 15:12:03,751 - INFO - Moved: desktop.ini -> Other/
+2026-09-07 15:12:03,752 - INFO - Moved: Docker Desktop.lnk -> Other/
+2026-09-07 15:12:03,752 - INFO - Moved: eDEX-UI.lnk -> Other/
+2026-09-07 15:12:03,753 - INFO - Moved: exploit.php -> Other/
+2026-09-07 15:12:03,753 - INFO - Moved: Hassan_034 & Ahmad_036 HCI_Project.docx -> Documents/
+2026-09-07 15:12:03,754 - INFO - Moved: Hassan_Khan_CV.docx -> Documents/
+2026-09-07 15:12:03,754 - INFO - Moved: Hassan_Khan_CV.pdf -> PDFs/
+2026-09-07 15:12:03,755 - INFO - Moved: incident_report.md -> Other/
+2026-09-07 15:12:03,756 - INFO - Moved: index.html -> Other/
+2026-09-07 15:12:03,757 - INFO - Moved: ioc_triage.py -> Other/
+2026-09-07 15:12:03,757 - INFO - Moved: Juice-Shop-issue.txt -> Documents/
+2026-09-07 15:12:03,757 - INFO - Moved: Juice-Shop.txt -> Documents/
+2026-09-07 15:12:03,758 - INFO - Moved: linktxt.txt -> Documents/
+2026-09-07 15:12:03,758 - INFO - Moved: MEGAsync.lnk -> Other/
+2026-09-07 15:12:03,758 - INFO - Moved: Microsoft Edge.lnk -> Other/
+2026-09-07 15:12:03,759 - INFO - Moved: mul.txt -> Documents/
+2026-09-07 15:12:03,759 - INFO - Moved: MUL_Web_Application_Vulnerability_Report.docx -> Documents/
+2026-09-07 15:12:03,759 - INFO - Moved: nic.jpeg -> Images/
+2026-09-07 15:12:03,760 - INFO - Moved: Project 1.docx -> Documents/
+2026-09-07 15:12:03,760 - INFO - Moved: Project 1.pdf -> PDFs/
+2026-09-07 15:12:03,760 - INFO - Moved: reconi.txt -> Documents/
+2026-09-07 15:12:03,761 - INFO - Moved: SecureCRT 8.1.lnk -> Other/
+2026-09-07 15:12:03,761 - INFO - Moved: SecureFX 8.1.lnk -> Other/
+2026-09-07 15:12:03,762 - INFO - Moved: splunk.txt -> Documents/
+2026-09-07 15:12:03,762 - INFO - Moved: terminal_output.png -> Images/
+2026-09-07 15:12:03,762 - INFO - Moved: UltraVNC Launcher.lnk -> Other/
+2026-09-07 15:12:03,763 - INFO - Moved: UltraVNC Repeater.lnk -> Other/
+2026-09-07 15:12:03,763 - INFO - Moved: UltraVNC Server.lnk -> Other/
+2026-09-07 15:12:03,763 - INFO - Moved: UltraVNC Viewer.lnk -> Other/
+2026-09-07 15:12:03,764 - INFO - Moved: Visual Studio Code.lnk -> Other/
+2026-09-07 15:12:03,764 - INFO - Moved: vuln-structure-git.txt -> Documents/
+2026-09-07 15:12:03,764 - INFO - Moved: vuln.txt -> Documents/
+2026-09-07 15:12:03,765 - INFO - Moved: wazuh credential.txt -> Documents/
+2026-09-07 15:12:03,765 - INFO - Moved: ~$RALLEL AND DISTRIBUTED COMPUTING.docx -> Documents/
+2026-09-07 15:12:03,765 - INFO - Moved: ~WRL2201.tmp -> Other/
+2026-09-07 15:12:03,766 - INFO - Creating Backup: backup_260907.zip
