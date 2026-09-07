@@ -1,0 +1,17 @@
+# File Organizer & Backup System
+# Requirements File
+
+# NO EXTERNAL DEPENDENCIES!
+# This project uses only Python Standard Library.
+
+# Python Version Required: 3.6 or higher
+# All required modules are built-in:
+# - os
+# - shutil
+# - glob
+# - logging
+# - zipfile
+# - datetime
+
+# No installation needed!
+# Just run: python src/file_organizer.py
