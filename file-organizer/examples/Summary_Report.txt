@@ -1,0 +1,28 @@
+==================================================
+FILE ORGANIZATION SUMMARY REPORT
+==================================================
+Date: 260907 13:56:25
+Source Folder: C:\Users\hk976/Downloads
+
+------------------------------
+FILES ORGANISE:
+------------------------------
+Images: 0 files
+PDFs: 0 files
+Documents: 1 files
+Data: 0 files
+Archive: 0 files
+Videos: 0 files
+Other: 0 files
+
+Total files organized: 1
+
+------------------------------
+BACKUP INFORMATION:
+------------------------------
+Backup file: backup_260907.zip
+Backup size: 1644.48 MB
+
+==================================================
+END OF REPORT
+==================================================
